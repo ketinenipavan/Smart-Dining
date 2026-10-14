@@ -1,0 +1,402 @@
+[
+  {
+    "id": "m1",
+    "name": "Chicken Curry",
+    "wikiFile": "Chicken Curry with Roti(Indian Bread).jpg",
+    "localWebPath": "/images/dishes/m1.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Chicken_Curry_with_Roti%28Indian_Bread%29.jpg/960px-Chicken_Curry_with_Roti%28Indian_Bread%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 134.416015625
+  },
+  {
+    "id": "m2",
+    "name": "Chicken Fry",
+    "wikiFile": "Spicy chicken dry roast.jpg",
+    "localWebPath": "/images/dishes/m2.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Spicy_chicken_dry_roast.jpg/960px-Spicy_chicken_dry_roast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 193.49609375
+  },
+  {
+    "id": "m3",
+    "name": "Gongura Chicken",
+    "wikiFile": "Steamed Rice with Gongura chicken.jpg",
+    "localWebPath": "/images/dishes/m3.jpg",
+    "resolvedUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Steamed_Rice_with_Gongura_chicken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sizeKb": 49.755859375
+  },
+  {
+    "id": "m4",
+    "name": "Prawns Curry",
+    "wikiFile": "Indian Shrimp Curry 1.jpg",
+    "localWebPath": "/images/dishes/m4.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Indian_Shrimp_Curry_1.jpg/960px-Indian_Shrimp_Curry_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 137.52734375
+  },
+  {
+    "id": "m6",
+    "name": "Mutton Fry",
+    "wikiFile": "Dry-Fry Mutton.jpg",
+    "localWebPath": "/images/dishes/m6.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Dry-Fry_Mutton.jpg/960px-Dry-Fry_Mutton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 110.4208984375
+  },
+  {
+    "id": "m7",
+    "name": "Veg. Biryani",
+    "wikiFile": "Veg Curry Biriyani.jpg",
+    "localWebPath": "/images/dishes/m7.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Veg_Curry_Biriyani.jpg/960px-Veg_Curry_Biriyani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 85.09375
+  },
+  {
+    "id": "m8",
+    "name": "Chicken Biryani",
+    "wikiFile": "Hyderabadi Chicken Biryani.jpg",
+    "localWebPath": "/images/dishes/m8.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Hyderabadi_Chicken_Biryani.jpg/960px-Hyderabadi_Chicken_Biryani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 180.9521484375
+  },
+  {
+    "id": "m9",
+    "name": "Chicken Tikka Biryani",
+    "wikiFile": "Chicken tikka biryani.jpg",
+    "localWebPath": "/images/dishes/m9.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Chicken_tikka_biryani.jpg/960px-Chicken_tikka_biryani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 131.119140625
+  },
+  {
+    "id": "m10",
+    "name": "Prawn Biryani",
+    "wikiFile": "Shrimp Biriyani.JPG",
+    "localWebPath": "/images/dishes/m10.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Shrimp_Biriyani.JPG/960px-Shrimp_Biriyani.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 175.5390625
+  },
+  {
+    "id": "m11",
+    "name": "Mutton Dum Biryani",
+    "wikiFile": "Mutton Dum biryani.jpg",
+    "localWebPath": "/images/dishes/m11.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Mutton_Dum_biryani.jpg/960px-Mutton_Dum_biryani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 147.9677734375
+  },
+  {
+    "id": "m12",
+    "name": "Tomato Soup",
+    "wikiFile": "Tomato soup.jpg",
+    "localWebPath": "/images/dishes/m12.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Tomato_soup.jpg/960px-Tomato_soup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 132.0537109375
+  },
+  {
+    "id": "m13",
+    "name": "Veg. Hot & Sour Soup",
+    "wikiFile": "Hot-and-Sour-Soup-Bowl.jpg",
+    "localWebPath": "/images/dishes/m13.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Hot-and-Sour-Soup-Bowl.jpg/960px-Hot-and-Sour-Soup-Bowl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 129.2666015625
+  },
+  {
+    "id": "m14",
+    "name": "Chicken Corn Soup",
+    "wikiFile": "Chicken sweet corn soup.jpg",
+    "localWebPath": "/images/dishes/m14.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Chicken_sweet_corn_soup.jpg/960px-Chicken_sweet_corn_soup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 99.2216796875
+  },
+  {
+    "id": "m15",
+    "name": "Chicken Hot & Sour Soup",
+    "directUrl": "https://images.unsplash.com/photo-1547592180-85f173990554?w=800&auto=format&fit=crop&q=80",
+    "localWebPath": "/images/dishes/m15.jpg",
+    "resolvedUrl": "https://images.unsplash.com/photo-1547592180-85f173990554?w=800&auto=format&fit=crop&q=80",
+    "sizeKb": 110.70703125
+  },
+  {
+    "id": "m16",
+    "name": "Tandoori Chicken (Full)",
+    "wikiFile": "Tandoori Chicken 01.jpg",
+    "localWebPath": "/images/dishes/m16.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Tandoori_Chicken_01.jpg/960px-Tandoori_Chicken_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 124.6455078125
+  },
+  {
+    "id": "m17",
+    "name": "Tandoori Chicken (Half)",
+    "wikiFile": "Tandoori Chicken cooked in Melbourne.JPG",
+    "localWebPath": "/images/dishes/m17.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Tandoori_Chicken_cooked_in_Melbourne.JPG/960px-Tandoori_Chicken_cooked_in_Melbourne.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 139.228515625
+  },
+  {
+    "id": "m18",
+    "name": "Chicken Tikka",
+    "wikiFile": "Chicken Malai Tikka.JPG",
+    "localWebPath": "/images/dishes/m18.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Chicken_Malai_Tikka.JPG/960px-Chicken_Malai_Tikka.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 109.7548828125
+  },
+  {
+    "id": "m19",
+    "name": "Kalmi Kebab",
+    "wikiFile": "Murg tangri kebab.jpg",
+    "localWebPath": "/images/dishes/m19.jpg",
+    "resolvedUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Murg_tangri_kebab.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sizeKb": 59.390625
+  },
+  {
+    "id": "m20",
+    "name": "Veg. Manchurian",
+    "wikiFile": "Manchurian.jpg",
+    "localWebPath": "/images/dishes/m20.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Manchurian.jpg/960px-Manchurian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 205.1513671875
+  },
+  {
+    "id": "m21",
+    "name": "Gobi Manchurian",
+    "wikiFile": "Home made crispy Gobi Manchurian.jpg",
+    "localWebPath": "/images/dishes/m21.jpg",
+    "resolvedUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Home_made_crispy_Gobi_Manchurian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sizeKb": 21.0947265625
+  },
+  {
+    "id": "m23",
+    "name": "Paneer 65",
+    "directUrl": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=800&auto=format&fit=crop&q=80",
+    "localWebPath": "/images/dishes/m23.jpg",
+    "resolvedUrl": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=800&auto=format&fit=crop&q=80",
+    "sizeKb": 68.146484375
+  },
+  {
+    "id": "m24",
+    "name": "Veg Spring Rolls",
+    "wikiFile": "Golden Vegetable Spring Rolls Served with Dipping Sauce.jpg",
+    "localWebPath": "/images/dishes/m24.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Golden_Vegetable_Spring_Rolls_Served_with_Dipping_Sauce.jpg/960px-Golden_Vegetable_Spring_Rolls_Served_with_Dipping_Sauce.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 293.3154296875
+  },
+  {
+    "id": "m25",
+    "name": "Baby Corn Manchurian",
+    "wikiFile": "Crispy chilli baby corn.....jpg",
+    "localWebPath": "/images/dishes/m25.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Crispy_chilli_baby_corn.....jpg/960px-Crispy_chilli_baby_corn.....jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 146.7802734375
+  },
+  {
+    "id": "m26",
+    "name": "Chicken 65",
+    "wikiFile": "Chicken 65 (Dish).jpg",
+    "localWebPath": "/images/dishes/m26.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Chicken_65_%28Dish%29.jpg/960px-Chicken_65_%28Dish%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 147.1396484375
+  },
+  {
+    "id": "m27",
+    "name": "Chilli Chicken",
+    "wikiFile": "Chilli chicken pakoda.jpg",
+    "localWebPath": "/images/dishes/m27.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Chilli_chicken_pakoda.jpg/960px-Chilli_chicken_pakoda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 151.560546875
+  },
+  {
+    "id": "m28",
+    "name": "Chicken Manchurian",
+    "wikiFile": "Chicken manchurian 02.JPG",
+    "localWebPath": "/images/dishes/m28.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Chicken_manchurian_02.JPG/960px-Chicken_manchurian_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 222.3525390625
+  },
+  {
+    "id": "m30",
+    "name": "Apollo Fish",
+    "wikiFile": "South-Indian Masala Fish Fry.jpg",
+    "localWebPath": "/images/dishes/m30.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/South-Indian_Masala_Fish_Fry.jpg/960px-South-Indian_Masala_Fish_Fry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 220.3505859375
+  },
+  {
+    "id": "m31",
+    "name": "Pepper Chicken",
+    "directUrl": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?w=800&auto=format&fit=crop&q=80",
+    "localWebPath": "/images/dishes/m31.jpg",
+    "resolvedUrl": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?w=800&auto=format&fit=crop&q=80",
+    "sizeKb": 135.6318359375
+  },
+  {
+    "id": "m32",
+    "name": "Paneer Butter Masala",
+    "wikiFile": "Paneer butter masala 2.jpg",
+    "localWebPath": "/images/dishes/m32.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Paneer_butter_masala_2.jpg/960px-Paneer_butter_masala_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 216.64453125
+  },
+  {
+    "id": "m33",
+    "name": "Palak Paneer",
+    "wikiFile": "Palak Paneer (Cottage cheese in spinach gravy).jpg",
+    "localWebPath": "/images/dishes/m33.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Palak_Paneer_%28Cottage_cheese_in_spinach_gravy%29.jpg/960px-Palak_Paneer_%28Cottage_cheese_in_spinach_gravy%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 167.466796875
+  },
+  {
+    "id": "m34",
+    "name": "Shahi Paneer",
+    "wikiFile": "Shahi paneer and palak paneer.JPG",
+    "localWebPath": "/images/dishes/m34.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Shahi_paneer_and_palak_paneer.JPG/960px-Shahi_paneer_and_palak_paneer.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 199.521484375
+  },
+  {
+    "id": "m35",
+    "name": "Malai Kofta",
+    "wikiFile": "MalaiKofta.jpg",
+    "localWebPath": "/images/dishes/m35.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/MalaiKofta.jpg/960px-MalaiKofta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 192.30078125
+  },
+  {
+    "id": "m36",
+    "name": "Kadai Paneer",
+    "wikiFile": "Kadai Paneer Recipe.JPG",
+    "localWebPath": "/images/dishes/m36.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Kadai_Paneer_Recipe.JPG/960px-Kadai_Paneer_Recipe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 319.26953125
+  },
+  {
+    "id": "m37",
+    "name": "Butter Chicken",
+    "wikiFile": "Chicken makhani.jpg",
+    "localWebPath": "/images/dishes/m37.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Chicken_makhani.jpg/960px-Chicken_makhani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 84.3369140625
+  },
+  {
+    "id": "m38",
+    "name": "Kadai Chicken",
+    "wikiFile": "Chicken Masala - In Kadai.jpg",
+    "localWebPath": "/images/dishes/m38.jpg",
+    "resolvedUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Chicken_Masala_-_In_Kadai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sizeKb": 254.7353515625
+  },
+  {
+    "id": "m39",
+    "name": "Chicken Chettinad",
+    "directUrl": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=800&auto=format&fit=crop&q=80",
+    "localWebPath": "/images/dishes/m39.jpg",
+    "resolvedUrl": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=800&auto=format&fit=crop&q=80",
+    "sizeKb": 90.94921875
+  },
+  {
+    "id": "m40",
+    "name": "Mutton Roghan Josh",
+    "wikiFile": "Mutton rogan josh.jpg",
+    "localWebPath": "/images/dishes/m40.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Mutton_rogan_josh.jpg/960px-Mutton_rogan_josh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 77.484375
+  },
+  {
+    "id": "m41",
+    "name": "Prawns Masala",
+    "wikiFile": "Masala Prawn.jpg",
+    "localWebPath": "/images/dishes/m41.jpg",
+    "resolvedUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Masala_Prawn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sizeKb": 174.0712890625
+  },
+  {
+    "id": "m42",
+    "name": "Veg. Fried Rice",
+    "wikiFile": "Vegetable Fried Rice.jpg",
+    "localWebPath": "/images/dishes/m42.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Vegetable_Fried_Rice.jpg/960px-Vegetable_Fried_Rice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 240.7216796875
+  },
+  {
+    "id": "m43",
+    "name": "Chicken Fried Rice",
+    "wikiFile": "Fried rice with chicken (17234644521).jpg",
+    "localWebPath": "/images/dishes/m43.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Fried_rice_with_chicken_%2817234644521%29.jpg/960px-Fried_rice_with_chicken_%2817234644521%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 136.4248046875
+  },
+  {
+    "id": "m44",
+    "name": "Veg. Noodles",
+    "wikiFile": "Veg Hakka Noodles.jpg",
+    "localWebPath": "/images/dishes/m44.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Veg_Hakka_Noodles.jpg/960px-Veg_Hakka_Noodles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 252.0380859375
+  },
+  {
+    "id": "m45",
+    "name": "Chicken Noodles",
+    "wikiFile": "Chicken Chow mein 1.jpg",
+    "localWebPath": "/images/dishes/m45.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Chicken_Chow_mein_1.jpg/960px-Chicken_Chow_mein_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 236.8779296875
+  },
+  {
+    "id": "m46",
+    "name": "Prawn Fried Rice",
+    "wikiFile": "Shrimp Paste Fried Rice.jpg",
+    "localWebPath": "/images/dishes/m46.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Shrimp_Paste_Fried_Rice.jpg/960px-Shrimp_Paste_Fried_Rice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 144.4443359375
+  },
+  {
+    "id": "m47",
+    "name": "Angoor Basundi",
+    "wikiFile": "Basundi Indian Dessert Mithai Sweets.jpg",
+    "localWebPath": "/images/dishes/m47.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Basundi_Indian_Dessert_Mithai_Sweets.jpg/960px-Basundi_Indian_Dessert_Mithai_Sweets.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 112.7978515625
+  },
+  {
+    "id": "m48",
+    "name": "Apricot Delight",
+    "wikiFile": "Khobani Ka Meetha.JPG",
+    "localWebPath": "/images/dishes/m48.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Khobani_Ka_Meetha.JPG/960px-Khobani_Ka_Meetha.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 192.9541015625
+  },
+  {
+    "id": "m49",
+    "name": "Mango Lassi",
+    "directUrl": "https://images.unsplash.com/photo-1619898804188-e7bad4bd2127?w=800&auto=format&fit=crop&q=80",
+    "localWebPath": "/images/dishes/m49.jpg",
+    "resolvedUrl": "https://images.unsplash.com/photo-1619898804188-e7bad4bd2127?w=800&auto=format&fit=crop&q=80",
+    "sizeKb": 54.802734375
+  },
+  {
+    "id": "m50",
+    "name": "Butter Milk",
+    "directUrl": "https://images.unsplash.com/photo-1546173159-315724a31696?w=800&auto=format&fit=crop&q=80",
+    "localWebPath": "/images/dishes/m50.jpg",
+    "resolvedUrl": "https://images.unsplash.com/photo-1546173159-315724a31696?w=800&auto=format&fit=crop&q=80",
+    "sizeKb": 91.7880859375
+  },
+  {
+    "id": "m51",
+    "name": "Chocolate Milkshake",
+    "directUrl": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=800&auto=format&fit=crop&q=80",
+    "localWebPath": "/images/dishes/m51.jpg",
+    "resolvedUrl": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=800&auto=format&fit=crop&q=80",
+    "sizeKb": 139.3642578125
+  },
+  {
+    "id": "m52",
+    "name": "Fresh Lemon Soda",
+    "wikiFile": "Nimbu Pani.JPG",
+    "localWebPath": "/images/dishes/m52.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Nimbu_Pani.JPG/960px-Nimbu_Pani.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 183.427734375
+  },
+  {
+    "id": "m53",
+    "name": "Lassi (Sweet)",
+    "wikiFile": "Lassi Sweet or Salted.JPG",
+    "localWebPath": "/images/dishes/m53.jpg",
+    "resolvedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Lassi_Sweet_or_Salted.JPG/960px-Lassi_Sweet_or_Salted.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sizeKb": 99.3427734375
+  }
+]
